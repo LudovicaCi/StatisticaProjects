@@ -1,6 +1,6 @@
 # Statistics Projects
 
-This repository documents three data analysis projects conducted using the [R] software.
+This repository documents three data analysis projects conducted using the R software.
 
 ## Project I - Mental Health Analysis in Italy
 
